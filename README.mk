@@ -1,0 +1,2 @@
+This repository analyzes transposon expression profiling in hematopoietic stem cells (HSCs) and acute myeloid leukemia (AML) patients. The study indicates that high transposon expression in HSCs is associated with HSC gene expression priming for lineage differentiation. A panel of transposon genes was identified with low expression in HSCs and linked to poor survival in AML patients. Additionally, transposon expression changes were observed in AML patients with cytogenetic alterations, such as PML-RARA and AML-ETO, which exhibited highly variable transposon expression.
+
